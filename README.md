@@ -1,6 +1,6 @@
 # Manual Testing Task Assesment
 
-Here Is a Manual Testing task both UI and API.The main focus is system testing in an e_commerece platform.
+Here is a Manual Testing task both UI and API.The main focus is system testing in an e_commerece platform.
 
 # Give Task Assesment
 
